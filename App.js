@@ -192,7 +192,7 @@ function App() {
                     >
                         <div className="portrait-glow"></div>
                         <img
-                            src="Pictures/Photo.png"
+                            src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-189c-622f-aa77-fb061bc2798e/raw?se=2025-06-26T14%3A36%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=1b5187a2-352e-5c8c-94ce-27c391449c42&skoid=0a4a0f0c-99ac-4752-9d87-cfac036fa93f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-26T07%3A46%3A58Z&ske=2025-06-27T07%3A46%3A58Z&sks=b&skv=2024-08-04&sig=pHCH3y7ianTWtATCDXCFNmGpWblZGXjP/hEkU/TZoWs%3D"
                             alt="Profile"
                             className="rounded-lg shadow-lg w-full max-w-md mx-auto"
                         />
