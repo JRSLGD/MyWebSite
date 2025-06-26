@@ -108,7 +108,7 @@ function App() {
         <>
             {/* Social Media Sidebar */}
             <aside className="social-sidebar fixed z-15">
-                <a href="https://web.facebook.com/Joris.Gbelia/?viewas=100000686899395" target="_blank" className="social-icon text-white text-2xl">
+                <a href="https://web.facebook.com/Joris.Gbelia" target="_blank" className="social-icon text-white text-2xl">
                     <i class="bxl bx-facebook bx-flashing " />
                 </a>
                 <a href="https://linkedin.com" target="_blank" className="social-icon text-white text-2xl">
@@ -246,7 +246,7 @@ function App() {
                     <p className="text-gray-400 text-lg">© 2025 MyWeBSite by Joris. All rights reserved.</p>
                 </div>
                 <div className="container flex right-0 align-items justify-content items-center gap-5">
-                    <a href="https://web.facebook.com/Joris.Gbelia/?viewas=100000686899395" target="_blank" className="social-icon text-white text-2xl">
+                    <a href="https://web.facebook.com/Joris.Gbelia" target="_blank" className="social-icon text-white text-2xl">
                         <i class="bxl bx-facebook bx-flashing " />
                     </a>
                     <a href="https://linkedin.com" target="_blank" className="social-icon text-white text-2xl">
