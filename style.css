@@ -90,3 +90,17 @@
     transform: scale(1.2);
     color: #9F7AEA;
 }
+
+.mob-btn{
+    width: 100%;
+    background-color: #2D3748;
+    font-size: 20px;
+    height: 60px;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+}
+
+.mob-btn:hover{
+    background-color: white;
+    color: #2D3748;
+}
