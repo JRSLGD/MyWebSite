@@ -70,3 +70,15 @@
 .container div.locked .fa-lock-open{
     display: none;
 }
+
+.action-button-container button{
+    width: 50px;
+    height: 40px;
+    border: 3px solid rgba(49, 35, 35, 0.87);
+    border-radius: 10px;
+    transition: all 0.1s ease-in-out;
+}
+
+.action-button-container button:hover{
+    border: 1px solid gray;
+}
